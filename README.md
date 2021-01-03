@@ -53,3 +53,7 @@ The 1cycle policy has three steps: We progressively increase our learning rate f
 
 We do the exact opposite: we progressively decrease our learning rate from lr_max to lr_max/div_factor and at the same time we progressively increase our momentum from mom_min to mom_max.
 
+## Image Scrapping
+### Chromium engine
+### Beautiful Soup
+
